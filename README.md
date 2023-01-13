@@ -1,13 +1,13 @@
 # flutter_application_4
 
-Tempat Wisata Semarang
+Tempat Wisata Temanggung
 
-Created by Muhammad Zaidhan Irfansyah
-- NIM : 3.34.21.1.16
+Created by Widigda Rahmamukti
+- NIM : 3.34.21.1.24
 - Kelas : IK-2B
 - Angkatan : 2021
 
-![Screenshot_20230113_105651](https://user-images.githubusercontent.com/117591399/212363848-b0179b0f-a112-4cc7-92b3-8e51fe2555e2.png)
+![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
 
 This project is a starting point for a Flutter application.
 
